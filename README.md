@@ -1,6 +1,8 @@
 # Solitaire Chat
 
-Solitaire chat est une application permettant à des utilisateurs de communiquer de manière cryptée. Le cryptage des messages est réalisé grâce à l'algorithme Solitaire de Bruce Schneier. 
+Solitaire chat est une application permettant à des utilisateurs de communiquer de manière cryptée. Le cryptage des messages est réalisé grâce à l'algorithme Solitaire de Bruce Schneier. Cette application se base très largement sur le client de chat existant : 
+
+[https://github.com/cayblood/batman-rails-chat-app](https://github.com/cayblood/batman-rails-chat-app)
 
 ![Screenshot](https://dl.dropbox.com/u/18506317/images/message_decrypte.jpg)
 
